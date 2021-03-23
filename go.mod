@@ -1,3 +1,3 @@
-module github.com/yanyiwu/gojieba
+module github.com/luohengshan/gojieba
 
 go 1.13
